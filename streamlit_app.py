@@ -1,4 +1,4 @@
-!pip3 install openai
+pip3 install openai
 import openai 
   
 openai.api_key = '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' 
