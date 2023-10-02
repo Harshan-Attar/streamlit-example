@@ -1,6 +1,6 @@
 import openai 
   
- openai.api_key = 'sk-fuq u I'm not giving u my key' 
+ openai.api_key = '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' 
   
   
  def get_api_response(prompt: str) -> str | None: 
