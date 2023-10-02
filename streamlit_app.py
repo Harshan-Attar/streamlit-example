@@ -1,6 +1,6 @@
 import openai 
   
-openai.api_key = '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' 
+openai.api_key = 'enter key' 
  
  
 def get_api_response(prompt: str) -> str | None: 
